@@ -5,7 +5,7 @@ import {FooterComponent} from './components/footer/footer.component';
 import {NavigationComponent} from './components/navigation/navigation.component';
 import {MainMenuComponent} from './components/main-menu/main-menu.component';
 import {MenuCatalogComponent} from './components/menu-catalog/menu-catalog.component';
-import { ContentComponent } from './components/content/content.component';
+import {ContentComponent} from './components/content/content.component';
 
 
 @NgModule({
